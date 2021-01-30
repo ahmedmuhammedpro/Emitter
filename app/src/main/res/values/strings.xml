@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Emitter</string>
+    <string name="confirmation_dialog_title">Confirmation</string>
+    <string name="confirmation_dialog_message_1">Are you sure you want to sending this </string>
+    <string name="confirmation_dialog_message_2"> \'s data to MiddleMan App?</string>
+    <string name="saving_result_title">Saving Result</string>
+    <string name="saving_result_success_message1">The data of</string>
+    <string name="saving_result_success_message2">is saved successfully</string>
+    <string name="saving_result_failed_message">Failed to save the data of</string>
+    <string name="ok_button">OK</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="main_notification_content">Receiver app is running</string>
+    <string name="close_button">close</string>
+</resources>
